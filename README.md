@@ -6,6 +6,10 @@
     - async reducer
         - endpoints for the data we want handled in the switch statement 
         - save endpoint responses to state 
+    
+- CSS Theme context provider 
+    - dark/light/system
+    - no reducer, just simple context state stuff 
 
 ## Routes 
 
@@ -19,6 +23,7 @@
         - larger list of followed artists 
         - user saved or top audiobooks 
         - recommended content
+
 - `localhost:3000/search/{userId}/`
     - search page to get stats of other users 
     - nice to have " not a main thing 
@@ -29,9 +34,13 @@
     - Different API 
 - User's top items 
 - User's currently playing 
+- Forms to check if user follows an artist 
+- Animations 
+- Cool styling  
+- Good documentation and code comments
+- App theme 
 
 ## FrontEnd UI Frameworks 
-
 
 - Chakra UI 
 - [Material UI]()
