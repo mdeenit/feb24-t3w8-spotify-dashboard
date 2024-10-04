@@ -45,3 +45,12 @@
 - Chakra UI 
 - [Material UI]()
 - UI ShadC
+
+## Deployment & Security
+
+- Netlify env variables: https://docs.netlify.com/environment-variables/overview/ 
+
+## Useful resources 
+
+- [Spotify Developer Docs](https://developer.spotify.com/documentation/web-api)
+ 
